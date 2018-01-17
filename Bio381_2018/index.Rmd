@@ -1,0 +1,10 @@
+---
+title: "HW 1"
+author: "Alex Neidermeier"
+date: "1/17/2018"
+output: html_document
+---
+
+##Creates a title
+*bold*
+**italics**
